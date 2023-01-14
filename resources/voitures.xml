@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><voitures xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="voitures.xsd">
+	<voiture année="2014" automatique="true" couleur="noir" marque="Volkswagen" matricule="A95720A15" model="noir"/>
+	<voiture année="2014" automatique="false" couleur="Gris" marque="Peugot435" matricule="B9547A49" model="Peugot4"/>
+	<voiture année="2019" automatique="false" couleur="noir" marque="BMW" matricule="F98765B" model="noir"/>
+	<voiture année="2015" automatique="true" couleur="gris" marque="Chevrolet" matricule="G65432C" model="Camaro SS"/>
+	<voiture année="2018" automatique="false" couleur="jaune" marque="Lamborghini" matricule="H43210L" model="Aventador SVJ"/>
+	<voiture année="2016" automatique="true" couleur="rouge" marque="Ferrari" matricule="C12345F" model="488 GTB"/>
+	<voiture année="2019" automatique="false" couleur="blanc" marque="Porsche" matricule="D67890P" model="911 Carrera S"/>
+	<voiture année="2022" automatique="true" couleur="bleu" marque="Tesla" matricule="E54321T" model="Model S Plaid"/>
+	<voiture année="2021" automatique="true" couleur="noir" marque="Mercedes-Benz" matricule="K3333M" model="AMG GT 63S"/>
+	
+</voitures>
